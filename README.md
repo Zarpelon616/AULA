@@ -1,2 +1,1 @@
-Banco de Dados
-TRABALHO
+Trabalho Banco de Dados
